@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A3 Study Stopwatch/ViewController.swift"
+            timestampString = "481060633.64019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A3_Study_Stopwatch.ViewController.topic.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "A3 Study Stopwatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kyle/Google%20Drive/Classes/iOS/Assignment%203/attempt%205/A3%20Study%20Stopwatch/A3%20Study%20Stopwatch/ViewController.swift"
+                  timestampString = "481061181.284512"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A3_Study_Stopwatch.ViewController.topic.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "A3 Study Stopwatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kyle/Google%20Drive/Classes/iOS/Assignment%203/attempt%205/A3%20Study%20Stopwatch/A3%20Study%20Stopwatch/ViewController.swift"
+                  timestampString = "481061181.284705"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A3_Study_Stopwatch.ViewController.init (A3_Study_Stopwatch.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; A3_Study_Stopwatch.ViewController"
+                  moduleName = "A3 Study Stopwatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kyle/Google%20Drive/Classes/iOS/Assignment%203/attempt%205/A3%20Study%20Stopwatch/A3%20Study%20Stopwatch/ViewController.swift"
+                  timestampString = "481061181.284894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "2331">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A3_Study_Stopwatch.ViewController.init (A3_Study_Stopwatch.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;A3_Study_Stopwatch.ViewController&gt;"
+                  moduleName = "A3 Study Stopwatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kyle/Google%20Drive/Classes/iOS/Assignment%203/attempt%205/A3%20Study%20Stopwatch/A3%20Study%20Stopwatch/ViewController.swift"
+                  timestampString = "481061181.285076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "2249">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
